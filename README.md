@@ -12,10 +12,17 @@ This project presents a Medical Chatbot developed with a Retrieval-Augmented Gen
 
 ## Table of Contents
 
-1.Installation
-2.Usage
-3.Project Structure
-4.How It Works
-5.Customization
-6.Contributing
-7.License
+1. Installation
+2. Usage
+3. Project Structure
+4. How It Works
+5. Customization
+6. Contributing
+7. License
+
+## Installation
+
+### Prerequisites
+
+* Python 3.8+
+* Required libraries can be found in requirements.txt. Install them using:
