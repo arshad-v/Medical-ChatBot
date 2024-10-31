@@ -12,8 +12,8 @@ This project presents a Medical Chatbot developed with a Retrieval-Augmented Gen
 
 ## Table of Contents
 
-1. Installation
-2. Usage
+1. [Installation](*installation)
+2. [Usage](*usage)
 3. Project Structure
 4. How It Works
 5. Customization
