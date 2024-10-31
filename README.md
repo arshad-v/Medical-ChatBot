@@ -5,4 +5,4 @@ This project presents a Medical Chatbot developed with a Retrieval-Augmented Gen
 ## Features
 
 * Contextual Medical Query Handling: The chatbot processes natural language queries and provides contextually relevant responses.
-*Knowledge Retrieval: Utilizes external medical knowledge sources to retrieve accurate information.
+* Knowledge Retrieval: Utilizes external medical knowledge sources to retrieve accurate information.
