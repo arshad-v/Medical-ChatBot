@@ -1,1 +1,1 @@
-# RAG---ChatBot
+# Medical Chatbot Using RAG (Retrieval-Augmented Generation)
